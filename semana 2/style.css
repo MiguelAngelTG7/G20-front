@@ -37,3 +37,52 @@ img{
     height: 150px;
     object-fit: contain;
 }
+
+.telefono{
+    color: black;
+}
+
+.art1{
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    color: black;
+    background-color: darkolivegreen ;
+    padding: 20px;
+    margin: auto;
+}
+.art2{
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    color: black;
+    background-color: darkolivegreen ;
+    padding: 20px;
+    margin: auto;
+}
+.art3{
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    color: black;
+    background-color: darkolivegreen ;
+    padding: 20px;
+    margin: auto;
+}
+.art4{
+    border: solid darkgreen 5px;
+    border-radius: 10px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    color: black;
+    background-color: darkolivegreen ;
+    padding: 20px;
+    margin: auto;
+}
