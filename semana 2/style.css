@@ -43,46 +43,70 @@ img{
 }
 
 .art1{
-    border: solid darkgreen 5px;
+    border:solid #C4C4C4 10px;
     border-radius: 10px;
-    width: 300px;
-    height: 200px;
+    width: 960px;
+    height: 525px;
     text-align: center;
     color: black;
     background-color: darkolivegreen ;
     padding: 20px;
     margin: auto;
+    background-image: url(https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg);
+    background-position: top;
 }
 .art2{
-    border: solid darkgreen 5px;
+    border:solid #7299FE 10px;
     border-radius: 10px;
-    width: 300px;
-    height: 150px;
+    width: 960px;
+    height: 424px;
     text-align: center;
     color: black;
-    background-color: darkolivegreen ;
+    background-color:#7299FE;
     padding: 20px;
     margin: auto;
 }
 .art3{
-    border: solid darkgreen 5px;
+    border: solid #9022FF 5px;
     border-radius: 10px;
-    width: 300px;
-    height: 100px;
+    width: 960px;
+    height: 424px;
     text-align: center;
     color: black;
-    background-color: darkolivegreen ;
+    background-color: #9022FF;
     padding: 20px;
     margin: auto;
 }
 .art4{
-    border: solid darkgreen 5px;
+    border: solid #FFD233 5px;
     border-radius: 10px;
-    width: 300px;
-    height: 50px;
+    width: 960px;
+    height: 424px;
     text-align: center;
     color: black;
-    background-color: darkolivegreen ;
+    background-color: #FFD233;
+    padding: 20px;
+    margin: auto;
+}
+.art5{
+    border: solid #3F4E62  5px;
+    border-radius: 10px;
+    width: 960px;
+    height: 258px;
+    text-align: center;
+    color: black;
+    background-color: #3F4E62;
+    padding: 20px;
+    margin: auto;
+}
+.art6{
+    border: solid #1687A0 5px;
+    border-radius: 10px;
+    width: 960px;
+    height: 578px;
+    text-align: center;
+    color: black;
+    background-color: #1687A0;
     padding: 20px;
     margin: auto;
 }
