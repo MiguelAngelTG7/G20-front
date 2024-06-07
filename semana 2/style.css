@@ -22,7 +22,7 @@ article{
     border: solid darkgreen 5px;
     border-radius: 10px;
     width: 300px;
-    height: 200px;
+    height: 215px;
     text-align: center;
     color: black;
     background-color: darkolivegreen ;
@@ -32,7 +32,7 @@ article{
 
 img{
     border: solid whitesmoke 5px;
-    border-radius: 50px;
+    border-radius: 100px;
     width: 150px;
     height: 150px;
     object-fit: contain;
