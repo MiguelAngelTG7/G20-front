@@ -1,0 +1,91 @@
+.border {
+    width: 300px;
+    height: 300px;
+    border: solid;
+    border-top-left-radius: 170px;
+    border-bottom-right-radius: 170px;
+    background-color: green;
+}
+
+.box-basic {
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+    border: solid red;
+    box-shadow: 5px 15px 10px red;
+}
+
+.box-blur {
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+    border: solid blue;
+    box-shadow: 5px 25px 10px rgb(10,19,146,0.5)
+}
+
+
+.texto-sombra {
+    text-align: center;
+
+    padding: 15px;
+    margin-top: 50px;
+    font-size: 50px;
+    text-shadow: 10px 10px 5px rgba(54, 52, 168, 0.452);
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: none;
+    background: linear-gradient(45deg,red, white,red);
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    border: solid white;
+    background: radial-gradient(circle at center, red 0, orange, yellow 100%);
+    border-radius: 75%;
+}
+
+.tarjeta {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    transition: 1s;
+}
+
+.tarjeta:hover {
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    transform: rotateY(180deg);
+}
+
+.coin {
+    margin-top: 40px;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: solid 2px;
+    transition: 2s;
+    animation: girar 2s infinite;
+}
+
+.coin:hover {
+    margin-top: 40px;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    transform: rotateY(180deg);
+}
+
+@keyframes girar {
+    0% {
+        transform: rotateY(0deg);
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}

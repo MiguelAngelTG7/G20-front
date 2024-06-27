@@ -1,0 +1,38 @@
+.cuadradogrande {
+    border: solid blue;
+    background-color: blue;
+    width: 300px;
+    padding: 10px;
+    /*display: flex;
+    justify-content: flex-end;*/
+}
+
+.cuadradopequeno {
+    border: solid blueviolet;
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    
+}
+
+img { 
+    width: 200px;
+    height: 200px;
+
+   }
+
+h2,h3,h4 {
+    color: lightblue;
+    align-content: center;
+    text-align: center;
+}
+
+.ether {
+    width: 10px;
+    height: 10px;
+}
+
+.avat {
+    width: 20px;
+    height: 20px;
+}
